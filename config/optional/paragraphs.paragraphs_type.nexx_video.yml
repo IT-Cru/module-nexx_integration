@@ -3,3 +3,6 @@ status: true
 dependencies: {  }
 id: nexx_video
 label: 'Nexx Video'
+icon_uuid: null
+description: null
+behavior_plugins: {  }
